@@ -21,6 +21,7 @@ The chatbot is a "plug and play" chatbot configured using Botpress.
 
 6. Contact
 
+![Portfolio Screenshot](images/Homepage.png)
 
 # Description:
 
