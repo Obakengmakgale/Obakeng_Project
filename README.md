@@ -21,7 +21,7 @@ The chatbot is a "plug and play" chatbot configured using Botpress.
 
 6. Contact
 
-![Portfolio Screenshot](images/Homepage.png)
+![Screenshot](Home%20page.png)
 
 # Description:
 
@@ -42,6 +42,7 @@ Services Section: Information on the services I offer.
 
 Contact Section: A form for visitors to send me messages and links to my social media profiles.
 
+![Screenshot](About%20me%20page.png)
 
 # Technologies Used:
 
@@ -106,3 +107,5 @@ LinkedIn: https://www.linkedin.com/in/obakeng-makgale-578085271/
 
 
 Website: https://obakengmakgale.github.io/Obakeng_Project/
+
+![Screenshot](services_page.png)
